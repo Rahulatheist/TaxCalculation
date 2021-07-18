@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\congestion-tax-calculator-net-core-WebSite\\congestion-tax-calculator-net-core-WebSite.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\congestion-tax-calculator-net-core-WebSite\\congestion-tax-calculator-net-core-WebSite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\congestion-tax-calculator-net-core-WebSite\\congestion-tax-calculator-net-core-WebSite.csproj",
+        "projectName": "congestion-tax-calculator-net-core-WebSite",
+        "projectPath": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\congestion-tax-calculator-net-core-WebSite\\congestion-tax-calculator-net-core-WebSite.csproj",
+        "packagesPath": "C:\\Users\\mv835e\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\congestion-tax-calculator-net-core-WebSite\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mv835e\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gide-tfs.web.boeing.com/tfs/IT/_packaging/MobileQSDatabase/nuget/v3/index.json": {},
+          "https://sres.web.boeing.com/artifactory/api/nuget/Nuget-Releases": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\netcore\\congestion-tax-calculator-net-core.csproj": {
+                "projectPath": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\netcore\\congestion-tax-calculator-net-core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\netcore\\congestion-tax-calculator-net-core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\netcore\\congestion-tax-calculator-net-core.csproj",
+        "projectName": "congestion-tax-calculator-net-core",
+        "projectPath": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\netcore\\congestion-tax-calculator-net-core.csproj",
+        "packagesPath": "C:\\Users\\mv835e\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mv835e\\Documents\\GitHub\\congestion-tax-calculator-main\\congestion-tax-calculator-main\\netcore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mv835e\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gide-tfs.web.boeing.com/tfs/IT/_packaging/MobileQSDatabase/nuget/v3/index.json": {},
+          "https://sres.web.boeing.com/artifactory/api/nuget/Nuget-Releases": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
